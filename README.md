@@ -7,7 +7,7 @@ A pytorch toolkit for structured neural network pruning automatically
 
 ### ① Architecture 系统架构
 
-<img src="examples/docs/1.png" width="50%">
+<img src="examples/docs/1.png" width="80%">
 
 **用户层**：人人都会用的剪枝工具，仅需二行代码即可完成全自动化剪枝
 
